@@ -31,13 +31,16 @@ Cybersecurity ethical hacking project
    - In "Promiscuous Mode" select "Allow VMs"
    - Your window should now look like this:
   
-  ![image](https://user-images.githubusercontent.com/36443074/144899986-414d24a7-ff5a-4fa4-9944-a36c13fc90b6.png)
+    ![image](https://user-images.githubusercontent.com/36443074/144899986-414d24a7-ff5a-4fa4-9944-a36c13fc90b6.png)
   
  6) Press "OK". Your VM is ready, you can click on "Start" to launch it!
  7) At this point, you will get a window of the kind:
  
-  ![image](https://user-images.githubusercontent.com/36443074/144900250-832d2b3d-66c0-44e1-9c98-e46784ff71a2.png)
+   ![image](https://user-images.githubusercontent.com/36443074/144900250-832d2b3d-66c0-44e1-9c98-e46784ff71a2.png)
  
  8) Just navigate to the IP address provided in your browser and you will get on the homepage on the website you need to break!
+
+  ![image](https://user-images.githubusercontent.com/36443074/144901055-b982704c-300e-4513-b2fb-d5684fa11da7.png)
+
 
 
