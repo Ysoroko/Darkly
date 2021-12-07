@@ -1,15 +1,14 @@
 # Forgotten Password Breach
 The breach related to the forgotten password page
 
-![image](https://user-images.githubusercontent.com/36443074/145009041-8f77382d-baf0-425d-ba59-621f9d5cc48f.png)
+![image](https://user-images.githubusercontent.com/36443074/145016250-87d8c2cc-f08f-42c5-8125-46c2ff1d46fe.png)
 
 ### Explanation:
-- On this webpage we can vote for the someone by choosing an option between 1 and 10
-- If we inspect the source code, we can see the following code in HTML which represents the process of voting:
-    ![image](https://user-images.githubusercontent.com/36443074/145009298-3733b978-5a20-4204-9676-e75b4edf851b.png)
-- We can manually modify these values, so that when we vote, instead of adding a note between 1 to 10, we will add our own value
-- For example, if I modify the value of the voting option "2" to 999999 and then try to vote "2" for Laurie, instead of adding 2 to the average score, she will get 999999
+- On the homepage when we press "Sign In" button and then click on "I forgot my password" we get to the webpage you see above
+- If we inspect the source code, we can see that there is a hidden input field, with a fixed value for an email:
+    ![image](https://user-images.githubusercontent.com/36443074/145016589-5c43dfd4-a2cf-483e-bd17-ca280e23b7c3.png)
+- If we modify the email in this field, the forgotten password (or the recovery procedure) can instead be sent to our own email address
+- This can allow us to recover passwords from website users
 
 ### How to fix:
-- Instead of using manual values twice from 1 to 10, we can use the position / index of the element.
-- The user must not be able to modify the values he submits!
+- Instead of sending it to the constant-value email address, we can simply use an input box with a user's email address
