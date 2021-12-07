@@ -1,6 +1,8 @@
 # Darkly
 Cybersecurity ethical hacking project
 
+This project is a collaboration with [Kyrylo Kalinichenko](https://github.com/KyryloKalinichenko)
+
 ### Setup:
 1) Download the provided .iso image and install Oracle Virtualbox
 2) Since Oracle Virtualbox doesn't support .iso files, you can convert it to a supported format ".vdi" by running the following command in the terminal
