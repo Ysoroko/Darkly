@@ -13,6 +13,4 @@ The breach related to the feedback page
 
 
 ### How to fix:
-- Instead of using manual values twice from 1 to 10, we can use the position / index of the element.
-- The user must not be able to modify the values he submits!
 
