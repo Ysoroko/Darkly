@@ -1,10 +1,14 @@
 # Feedback Breach
 The breach related to the feedback page
 
+![image](https://user-images.githubusercontent.com/36443074/145081193-523ef1a7-a327-459f-97f7-99f7333ed272.png)
+
 
 
 ### Explanation:
-- On this webpage we can 
+- On this webpage we can input the name and the message
+- Both fields are protected with functions which display an alert when you leave them empty
+- However, there is an error in source code, function name is badly written
 - If we inspect the source code, we can see the following code in HTML which represents the process of voting:
     ![image](https://user-images.githubusercontent.com/36443074/145009298-3733b978-5a20-4204-9676-e75b4edf851b.png)
 - We can manually modify these values, so that when we vote, instead of adding a note between 1 to 10, we will add our own value
