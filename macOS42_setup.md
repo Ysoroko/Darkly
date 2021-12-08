@@ -38,7 +38,7 @@
  
    ![image](https://user-images.githubusercontent.com/36443074/144900250-832d2b3d-66c0-44e1-9c98-e46784ff71a2.png)
  
- 8) Just navigate to the IP address provided in your browser and you will get on the homepage on the website you need to break!
+ 8) Just navigate to the IP address provided in your browser and you will get on the homepage of the website you need to break!
 
   ![image](https://user-images.githubusercontent.com/36443074/144901055-b982704c-300e-4513-b2fb-d5684fa11da7.png)
 
