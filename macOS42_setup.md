@@ -26,7 +26,7 @@
 4) Follow [this quick guide](https://carleton.ca/scs/2019/creating-a-new-host-only-adapter-in-virtualbox/) to create a Host-only network for your new virtual machine.
 5) Once finished, click on "Settings" button on your newly created virtual machine and go to the "Network" section
    - In "Attached to" section, choose "Host-only Adapter"
-   - If you followed the previous step correctly, the name of your new Host-only adapter should appear as an option in the field "Name"
+   - If you followed the step 4 correctly, the name of your new Host-only adapter should appear as an option in the field "Name"
    - In "Promiscuous Mode" select "Allow VMs"
    - Your window should now look like this:
    
