@@ -12,7 +12,7 @@ Let's take a look on schema:
 
 <img width="812" alt="Screen Shot 2021-12-10 at 2 13 42 PM" src="https://user-images.githubusercontent.com/64800542/145579626-4af4b610-c581-4b87-9014-7d0dd0f647f3.png">
 
-Now we know all the columns and names:
+Now we know all the columns and names.
 
 Let's see what is inside the hidden columns:
 
