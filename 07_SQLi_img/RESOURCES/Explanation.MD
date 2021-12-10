@@ -1,5 +1,7 @@
 We have a form to fill at the page "http://192.168.56.102/?page=searchimg".
 
+<img width="1306" alt="Screen Shot 2021-12-10 at 2 11 06 PM" src="https://user-images.githubusercontent.com/64800542/145579593-9d159bb7-1bd0-4615-bb9d-babeff46d94a.png">
+
 It looks like backend use the input from it right in an SQL statement. So we can use it for an "injection".
 
 Let's take a look on schema:
@@ -16,7 +18,7 @@ Let's see what is inside the hidden columns:
 
 <img width="1300" alt="Screen Shot 2021-12-10 at 2 10 40 PM" src="https://user-images.githubusercontent.com/64800542/145579607-68586bd0-ebd0-4fcd-912d-4890cff96791.png">
 
-<img width="1306" alt="Screen Shot 2021-12-10 at 2 11 06 PM" src="https://user-images.githubusercontent.com/64800542/145579593-9d159bb7-1bd0-4615-bb9d-babeff46d94a.png">
+
 
 
 <img width="1065" alt="Screen Shot 2021-12-10 at 2 11 19 PM" src="https://user-images.githubusercontent.com/64800542/145579368-50a7ec60-23f2-46e4-ad40-63521d51794b.png">
