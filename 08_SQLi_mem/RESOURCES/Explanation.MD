@@ -8,8 +8,7 @@ Let's take a look on schema:
 
 >SELECT table_name, column_name FROM information_schema.columns
 
-Now we know all the columns and names:
-
+Now we know all the columns and names.
 
 Let's see what is inside the hidden columns:
 
