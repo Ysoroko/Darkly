@@ -8,7 +8,7 @@ It looks like the backend use the input from it right in an SQL statement. So we
 
 Let's take a look on schema:
 
-1 OR 1=2 UNION SELECT table_name, column_name FROM information_schema.columns
+>1 OR 1=2 UNION SELECT table_name, column_name FROM information_schema.columns
 
 Now we know all the columns and names:
 
