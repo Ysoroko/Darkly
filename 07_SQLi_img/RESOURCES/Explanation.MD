@@ -24,7 +24,7 @@ Let's see what is inside the hidden columns:
 
 
 
-
+A good habbit to prevent SQLi is to validate the input from users before use it in an SQL statement.
 
 
 
